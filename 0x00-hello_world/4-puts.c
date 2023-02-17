@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- *  This is my first C program. I am using put function to print a string.
- *  
+ * main - A program that prints a line with puts function
+ * Return: 0 (Success) 
  */
 int main(void)
 {
