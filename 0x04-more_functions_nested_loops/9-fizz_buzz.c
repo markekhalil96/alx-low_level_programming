@@ -2,7 +2,8 @@
 
 /**
  * print_square - prints a square in the terminal
- * @size: the size of the square to print */
+ * @size: the size of the square to print
+ */
 void print_square(int size)
 {
 	int i, j;
